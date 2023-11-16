@@ -1,1 +1,2 @@
 # forensics
+Ce projet consiste à développer un analyseur de système de fichiers qui peut examiner une image de système de fichiers corrompue et extraire des informations clés telles que le type de système de fichiers, le nombre de partitions, les détails de la première partition et les informations du superbloc. Le programme utilisera des techniques de lecture du Master Boot Record (MBR) et du superbloc pour obtenir ces informations.
